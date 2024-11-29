@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Paulina");
         System.out.println("QWERTY");
+        System.out.println("Zmiana GIT");
         System.out.println("Zmiana Intelij");
     }
 }
